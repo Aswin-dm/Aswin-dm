@@ -33,7 +33,7 @@ aswin = {
     "location"   : "Tiruchirapalli, Tamil Nadu 🇮🇳",
     "education"  : "B.Tech — AI & Data Science (2022–2026)",
     "focus"      : ["ETL Pipelines", "Data Warehousing", "Pipeline Automation"],
-    "clouds"     : ["GCP", "AWS"],
+    "clouds"     : ["GCP"],
     "currently"  : "Seeking Data Engineering roles & internships 🚀",
     "fun_fact"   : "I make data flow so smoothly, even Redis gets jealous 😄"
 }
@@ -54,7 +54,6 @@ aswin = {
 
 ### Orchestration & ETL
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
